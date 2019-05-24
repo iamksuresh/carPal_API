@@ -1,0 +1,21 @@
+{
+  "name": "Carpal-google-maps-web-application",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/register": "^7.4.4",
+    "@babel/cli": "^7.4.4",
+    "@babel/node": "^7.2.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "babel-loader": "^8.0.6"
+  }
+}
